@@ -4,7 +4,6 @@ const ShortUrl = require('./models/shortUrl')
 const app = express();
 
 
-
 mongoose.connect('mongodb+srv://lalit9171:lalit9025@cluster0.enuowoj.mongodb.net/?retryWrites=true&w=majority',{    
     //process.env.MONGO_URL
 
