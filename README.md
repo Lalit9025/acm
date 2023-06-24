@@ -64,5 +64,5 @@ The model also defines a pre-save hook to automatically generate a unique short 
 
 Resources:
 For website hosting :https://render.com/
-Form youtube :https://www.youtube.com/watch?v=AjaGmTVBIfI&t=406s
+From youtube :https://www.youtube.com/watch?v=AjaGmTVBIfI&t=406s
                        https://www.youtube.com/watch?v=68Jd7GXZPe8
