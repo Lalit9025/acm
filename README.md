@@ -6,7 +6,7 @@ Description:
 This project is a URL shortener application where users can enter a long URL, optionally add a note, and generate a shortened URL. 
 The application also provides search functionality to retrieve URLs based on a search query. The shortened URLs are stored in a MongoDB database using the Mongoose ODM.
 
-How to run the project
+How to run the project: 
 1.if you want to run project locally on computer , change the code in server.js file
 
 mongoose.connect('mongodb+srv://lalit9171:lalit9025@cluster0.enuowoj.mongodb.net/?retryWrites=true&w=majority'
@@ -34,7 +34,7 @@ Reference for hosting :https://www.youtube.com/watch?v=AjaGmTVBIfI&t=406s
 
 For database setup : https://www.youtube.com/watch?v=68Jd7GXZPe8
 
-The internal working of your project
+The internal working of your project : 
 
 server.js:
 
