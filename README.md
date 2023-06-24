@@ -66,3 +66,4 @@ Resources:
 For website hosting :https://render.com/
 From youtube :https://www.youtube.com/watch?v=AjaGmTVBIfI&t=406s
                        https://www.youtube.com/watch?v=68Jd7GXZPe8
+proper explnantion: https://docs.google.com/document/d/1OyHp3hr6-hPnLC1ESUtFQVhlGB7eWeYFlhmKeTo70qs/edit
